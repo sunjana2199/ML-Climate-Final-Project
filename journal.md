@@ -11,3 +11,18 @@ Engineering and I have done quite a lot with energy per se, Hence working with e
 would be interesting. I skimmed through the internet for datasets, looked for meaningful data
 and found the website which is " ourworldindata". It is an interesting website and I am looking
 forward to working with the data I obtained from there
+
+February 7, 2022 
+
+As a part of the data exploration process, this week I started off with understanding the concepts of Time Series Analysis.I have now a strong hold on concepts such as persistence model, ADF test, Autocorrelation, Partial Auto Correlation and ARIMA. As weekly dicussions have also included a variety of concepts like Linear Inverse Modelling , I wanted to see if this concept could be applied to the current case. However, due to the limitations in the method, I think the concept cannot be applied to my study. Overall, I am looking forward to applying these concepts to the dataset.
+
+February 15, 2022
+
+This week was more about, data cleaning and pre-processing. I dedicated majority of my time to understanding the variables and analysisng how the data can be used for further analysis. Initially, I thought that I might want to collect data from the source and simply predict how much of the green house gas emission scenario would change over the course of time for countries around the world. But in order to arrive at this, I realized that the current dataset would not serve the purpose, mainly because there are plenty of missing values within the dataset itself. I tried several procedures to correct the dataset but they still seem to be ineffective.
+
+
+February 22, 2022 
+
+I was able to overcome the hiccup in the last week and now my data seems to be ready for analysis. I fit the dataset to the baseline model. Now I am looking to explore it with all the methods that I have studied in week 2. Hopefully,, this should bring out some insight.
+
+
