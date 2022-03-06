@@ -25,4 +25,26 @@ February 22, 2022
 
 I was able to overcome the hiccup in the last week and now my data seems to be ready for analysis. I fit the dataset to the baseline model. Now I am looking to explore it with all the methods that I have studied in week 2. Hopefully,, this should bring out some insight.
 
+March 1, 2022
+
+After attending the Class today, my curiosity was piqued by the concept of Causality. I realized that my project could extend into something bigger.
+What if Energy Demand could have a causal relationship with Social Media Sentiments(Priya mentioned that Social-Media Sentiments is a good avenue to extend energy research into)
+
+Essentially, I would wanna delve deeper into whether "Do the spikes in energy demand on certain days of the year have a causal relationship with trending media topics?"
+This looks like a good study to focus on.
+
+Up until now my progress is as follows:
+
+- I realized that the dataset that I already have is wanting.
+Hence I explored further for a more meaningful dataset and foind the EIA website.
+The EIA website has more structured data. I was able to retrieve the Energy Demand Data for New York from 2015-2022.
+
+- This dataset was relatively clean. However, I did spend time to refine it further and save it to csv formats.
+
+- I spent time to preprocess the data and did some basic data exploration.
+
+- I applied to to a moderaltely strong ARIMA model and tried to select best hyperparameters for the same.
+
+
+
 

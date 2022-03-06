@@ -2,6 +2,14 @@
 
 The Dataset I will be using the coursework is the Energy Dataset that is sourced from " https://ourworldindata.org/ " 
 
+Update : 
+This Data was collected from https://www.eia.gov/ through their open data API.
+EIA - Energy Information Administration
+
+The U.S. Energy Information Administration (EIA) is a principal agency of the U.S. Federal Statistical System responsible for collecting, analyzing, and disseminating energy information to promote sound policymaking, efficient markets, and public understanding of energy and its interaction with the economy and the environment. EIA programs cover data on coal, petroleum, natural gas, electric, renewable and nuclear energy. EIA is part of the U.S. Department of Energy.
+
+The Data is sourced from Demand Readings of New York Independent System Operator (NYIS), hourly - local time.
+
 **COUNTRY-WISE PROFILING (EDA)** :
 
 The questions I would like to explore from this Dataset are as follows  :
@@ -13,7 +21,7 @@ In this section, I would like to explore the percentages of contribution of each
 In this section, I will seek to explore the population percentages and how the scenario has changed over the years.
 How much energy do people in different countries consume?
 
-**ENERGY USAGE FORECASTING**:
+**ENERGY DEMAND FORECASTING**:
 
 Once profiling is through, I would like to further delve into the dataset by using Time Series Forecasting to predict the Renewable and Non-Renewable Energy Demands of Each country in the following years.
 
