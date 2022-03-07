@@ -45,6 +45,8 @@ The EIA website has more structured data. I was able to retrieve the Energy Dema
 
 - I applied to to a moderaltely strong ARIMA model and tried to select best hyperparameters for the same.
 
+## 2022-03-07 check in: alp
 
+Looking good. Thank you for the frequent updates. How are the results from your most recent modeling approach? I would recommend trying to get some initial results sooner than later; you can extend your ideas from that point with more insights.
 
 
