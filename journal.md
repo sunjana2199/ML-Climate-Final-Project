@@ -64,13 +64,13 @@ In the past week, my task was to finalize which Social Media platform would be b
 
 ##  2022-04-07
 
-Though the APIs were avaialble, the limitation was that they do not allow streaming for over 30 days. I have been looking for an alternative and found a library called snscape which allowsing scrapin for over 10 years. I have used this to stream twitter data for the outlier dates. I was sure to include one additional day to get rid of any inconsistencies.
+Though the APIs were avaialble, the limitation was that they do not allow streaming for over 30 days. I have been looking for an alternative and found a library called snscrape which allowsing scrapin for over 10 years. I have used this to stream twitter data for the outlier dates. I was sure to include one additional day to get rid of any inconsistencies.
 
 ## 2022-04-14
 
 I studied topic modelling techniques to make sense of the data collected. After cleaning and pre-processing, I used LDA and GSDMM to find the most relevant topics on these dates.
 
-After Brainstorming I feel like I have been ablle to find a link between the topics and teh Energy Demand Data.
+After Brainstorming I feel like I have been able to find a link between the topics and the Energy Demand Data.
 
 ## 2022-04-20
 
