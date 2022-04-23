@@ -49,4 +49,33 @@ The EIA website has more structured data. I was able to retrieve the Energy Dema
 
 Looking good. Thank you for the frequent updates. How are the results from your most recent modeling approach? I would recommend trying to get some initial results sooner than later; you can extend your ideas from that point with more insights.
 
+## 2022-03-14 
+
+After taking your inputs into consideration, I was able to produce a few initial results with the ARIMA Model. Though the Model was not stable in the beginning, eventually it worked and gave the results I desired. The final output is better that that produced by the baseline.
+
+## 2022-03-20
+
+In the last week, I was trying to link NLP with Time Series Forecasting. My idea here is to be able to stream Social Media Data for outliers in Energy Demand Dates. I was able to Set Up GCP with the credentials given and do a little bit of pre-processing.
+
+
+## 2022-03-28
+
+In the past week, my task was to finalize which Social Media platform would be best for data collection. I was looking at a few open-source APIs for streaming and found that Twitter and Reddit have APIs. This is a good start for Social Media Streaming. 
+
+##  2022-04-07
+
+Though the APIs were avaialble, the limitation was that they do not allow streaming for over 30 days. I have been looking for an alternative and found a library called snscape which allowsing scrapin for over 10 years. I have used this to stream twitter data for the outlier dates. I was sure to include one additional day to get rid of any inconsistencies.
+
+## 2022-04-14
+
+I studied topic modelling techniques to make sense of the data collected. After cleaning and pre-processing, I used LDA and GSDMM to find the most relevant topics on these dates.
+
+After Brainstorming I feel like I have been ablle to find a link between the topics and teh Energy Demand Data.
+
+## 2022-04-20
+
+Last week was mostly about the presentation of the work done until now. After receiving suggestions on my progress, I hope to use some evaluation metrics to see if the link that I found really holds.
+
+
+
 
