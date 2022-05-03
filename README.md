@@ -16,6 +16,7 @@ Bottom Extreme Values LDA plot
 ![bottom_lda](https://user-images.githubusercontent.com/25899745/166401653-d7537028-23a9-4a65-862f-a62ed7b51b6b.PNG)
 
 Top Extreme Values GSDMM wordcloud
+
 ![top_gsdmm](https://user-images.githubusercontent.com/25899745/166401637-eacbabf5-508b-444e-95e4-567b6feaeec5.PNG)
 
 Bottom Extreme Values GSDMM wordcloud
