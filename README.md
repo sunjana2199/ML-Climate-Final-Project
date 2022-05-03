@@ -1,21 +1,31 @@
-# ML-Climate-Final-Project-Template
+# Search For A Connection Between Energy Demand and Media Sentiments
 
-Throughout the semester each student will work on an individual project, which you will summarize in a final technical paper. You will showcase and document your work through a private git repository following this template.
+## Abstract 
 
-The organization of this repository is as follows:
 
-```
-abstract.md
-journal.md
-doc/
-src/
-etc/
-```
-- The file `abstract.md` simply contains an abstract of the project. At first, it is an aspirational abstract, one that describes the research program you want to complete. You will refine it through the semester.
-- The file `journal.md` is a diary of your progress. It contains dated entries with a description of what you are doing, what you found, what you are thinking, and so on. It is mainly a resource for you, but I will glance at it too (at the end of the semester). Please update and commit it at least once per week.
-- The `doc/` directory contains the LaTeX document that you are writing. We will provide a template for your final paper.
-- The `src/` directory contains the code you are writing. The data you are analyzing should live here too.
-- The `etc/` directory contains anything else — materials, notes, photos of whiteboards, and so on — that you want to keep track of.
-There should be nothing else in the top level directory of your repository.
+New York's energy bill fluctuations are a growing concern of the people. Due to the unpredictable changes in energy demand, suppliers struggle to allocate sufficient resources for energy production. This imbalance causes energy bill rates to surge which leads to residents not being able to plan their household budgets accordingly. The goal of this project is to build a robust Time Series Forecasting Model that predicts Energy Demand effectively. In addition to this, the project also attempts to investigate the reason behind the anomalous highs and lows in energy demand by studying social media sentiments. Data for Energy Demand is collected from New York ISO website. ARIMA model is built for Time Series Forecasting. Twitter Data is streamed for anomalous data and topic Modeling techniques like LDA and GSDMM are used for the analysis of textual data.
 
-Commit often, at least every week. You are graded on the quality of the project and the path that you took to get there.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Overview
+
+![Pink Modern Abstract Business Flowchart Graph ](https://user-images.githubusercontent.com/25899745/166401978-3a0875c6-4f1e-4338-b358-fa9daee4c04d.png)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Results 
+
+### Top Extreme Values LDA plot
+![top_lda](https://user-images.githubusercontent.com/25899745/166401625-5bdd724d-6152-476a-9aee-5005c89322af.PNG)
+
+### Bottom Extreme Values LDA plot
+![bottom_lda](https://user-images.githubusercontent.com/25899745/166401653-d7537028-23a9-4a65-862f-a62ed7b51b6b.PNG)
+
+### Top Extreme Values GSDMM wordcloud
+
+![top_gsdmm](https://user-images.githubusercontent.com/25899745/166401637-eacbabf5-508b-444e-95e4-567b6feaeec5.PNG)
+
+### Bottom Extreme Values GSDMM wordcloud
+
+![bottom_gsdmm](https://user-images.githubusercontent.com/25899745/166401652-5d67eb62-e929-41cf-b3c7-dd7673bc8ea6.PNG)
+
