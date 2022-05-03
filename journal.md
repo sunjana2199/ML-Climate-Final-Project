@@ -76,6 +76,10 @@ After Brainstorming I feel like I have been able to find a link between the topi
 
 Last week was mostly about the presentation of the work done until now. After receiving suggestions on my progress, I hope to use some evaluation metrics to see if the link that I found really holds.
 
+## 2022-04-31
+
+Worked on final project report.
+
 
 
 
