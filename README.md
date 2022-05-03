@@ -9,8 +9,16 @@ New York's energy bill fluctuations are a growing concern of the people. Due to 
 
 Results 
 
+Top Extreme Values LDA plot
 ![top_lda](https://user-images.githubusercontent.com/25899745/166401625-5bdd724d-6152-476a-9aee-5005c89322af.PNG)
-![top_gsdmm](https://user-images.githubusercontent.com/25899745/166401637-eacbabf5-508b-444e-95e4-567b6feaeec5.PNG)
-![bottom_gsdmm](https://user-images.githubusercontent.com/25899745/166401652-5d67eb62-e929-41cf-b3c7-dd7673bc8ea6.PNG)
+
+Bottom Extreme Values LDA plot
 ![bottom_lda](https://user-images.githubusercontent.com/25899745/166401653-d7537028-23a9-4a65-862f-a62ed7b51b6b.PNG)
+
+Top Extreme Values GSDMM wordcloud
+![top_gsdmm](https://user-images.githubusercontent.com/25899745/166401637-eacbabf5-508b-444e-95e4-567b6feaeec5.PNG)
+
+Bottom Extreme Values GSDMM wordcloud
+
+![bottom_gsdmm](https://user-images.githubusercontent.com/25899745/166401652-5d67eb62-e929-41cf-b3c7-dd7673bc8ea6.PNG)
 
